@@ -6,6 +6,7 @@ The project was created in Windev course, FIT, HCMUS, VN.
 ## Demo
 
 <img src="https://github.com/elhoangvu/QuickNote-Win32/blob/master/Demo/demo1.jpg" width="49%"> <img src="https://github.com/elhoangvu/QuickNote-Win32/blob/master/Demo/demo2.jpg" width="49%">
+
 <img src="https://github.com/elhoangvu/QuickNote-Win32/blob/master/Demo/demo3.jpg" width="49%"> <img src="https://github.com/elhoangvu/QuickNote-Win32/blob/master/Demo/demo4.jpg" width="49%">
 
 ## Features
